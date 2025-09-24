@@ -1,0 +1,19 @@
+server:
+  port: "8080"
+
+mode:
+  develop: true
+
+log:
+  MaxSize: 10 #文件最大大小（mb）
+  MaxBackups: 10 #历史文件保留数量
+  MaxAge: 7 #历史文件保留天数
+
+db:
+  dsn: root:root@tcp(127.0.0.1:3306)/gogofly?charset=utf8mb4&parseTime=True&loc=Local
+  maxIdleConn: 10 # 最多空闲连接数
+  maxOpenConn: 10 # 最多打开连接数
+
+jwt:
+  tokenExpire: 5        # token有效时长(分钟)
+  signingKey: web3_study # 签名使用的Key
