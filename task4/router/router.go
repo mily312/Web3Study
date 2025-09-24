@@ -99,4 +99,5 @@ func RegistRouter(fn IFnRegistRouter) {
 // 初始化各个模块的路由
 func InitBasePlatmRouter() {
 	InitUserRouter()
+	InitPostRouter()
 }

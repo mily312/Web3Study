@@ -12,14 +12,7 @@ func InitUserRouter() {
 		userApi := api.NewUserApi()
 
 		rgPublic.POST("login", userApi.Login)
-
-		// rgAuthUser := rgAuth.Group("/user")
-		// {
-		// 	rgAuthUser.POST("/addUser", userApi.AddUser)
-		// 	rgAuthUser.GET("/queryUserById", userApi.QueryUserById)
-		// 	rgAuthUser.POST("/list", userApi.QueryUserList)
-		// 	rgAuthUser.PUT("/:id", userApi.UpdateUser)
-		// }
+		rgPublic.POST("register", userApi.Register)
 
 	})
 }

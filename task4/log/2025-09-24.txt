@@ -1,3 +1,20 @@
 {"level":"INFO","time":"2025-09-24 12:11:49","msg":"start server on port:8080"}
 {"level":"ERROR","time":"2025-09-24 12:11:49","msg":"listen: %s\nlisten tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
 {"level":"INFO","time":"2025-09-24 12:12:16","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:13:40","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:19:52","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:21:48","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:23:30","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:24:15","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:25:59","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 15:30:50","msg":"start server on port:8080"}
+{"level":"ERROR","time":"2025-09-24 15:31:45","msg":"Error 1062 (23000): Duplicate entry '张三' for key 'user.uni_user_username'"}
+{"level":"INFO","time":"2025-09-24 17:59:16","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 18:02:59","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 18:31:01","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 20:59:46","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 21:07:46","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 21:32:18","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 21:35:41","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 21:37:52","msg":"start server on port:8080"}
+{"level":"INFO","time":"2025-09-24 21:40:04","msg":"start server on port:8080"}
