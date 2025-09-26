@@ -24,7 +24,7 @@ go run main.go
 
 用户注册不需要鉴权，password采用密文方式存储
 
-![image-20250926144549974](C:\Users\mily\AppData\Roaming\Typora\typora-user-images\image-20250926144549974.png)
+![image-20250926144549974](README.assets/image-20250926144549974.png)
 
 ![image-20250926144633162](README.assets/image-20250926144633162.png)
 
@@ -32,11 +32,11 @@ go run main.go
 
 用户登录，成功后返回jwt token
 
-![image-20250926144855423](C:\Users\mily\AppData\Roaming\Typora\typora-user-images\image-20250926144855423.png)
+![image-20250926144855423](README.assets/image-20250926144855423.png)
 
 密码验证失败
 
-![image-20250926144943207](C:\Users\mily\AppData\Roaming\Typora\typora-user-images\image-20250926144943207.png)
+![image-20250926144943207](README.assets/image-20250926144943207.png)
 
 ### 文章创建
 
