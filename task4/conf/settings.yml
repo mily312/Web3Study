@@ -15,5 +15,5 @@ db:
   maxOpenConn: 10 # 最多打开连接数
 
 jwt:
-  tokenExpire: 5        # token有效时长(分钟)
+  tokenExpire: 10        # token有效时长(分钟)
   signingKey: web3_study # 签名使用的Key

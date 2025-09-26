@@ -9,3 +9,9 @@ type Post struct {
 	UserID  uint   `json:"userId" gorm:"size:64;not null"`
 	User    User
 }
+
+type UpdatePost struct {
+	ID      uint   `uri:"postId"`
+	Title   string `json:"title"`
+	Content string `json:"content"`
+}
