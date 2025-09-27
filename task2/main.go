@@ -10,8 +10,14 @@ func main() {
 	// test01()
 	// test02()
 
-	//test.SaveAndPrintNum()
-	test.PrintNumRoutine()
+	// test.SaveAndPrintNum()
+	// test.PrintNumRoutine()
+	// test.Test06()
+	// test.Test07()
+	//test.Test08()
+
+	test.Test09()
+
 }
 
 func test01() {
